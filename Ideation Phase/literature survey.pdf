@@ -1,0 +1,215 @@
+Curriculum
+Introduction to Artificial Intelligence
+
+1.     What is Artificial Intelligence
+
+2.     History of Artificial Intelligence
+
+3.     Use Cases of Artificial Intelligence
+
+4.     Role of Machine Learning Engineer
+
+5.     Machine Learning Tools & Packages
+
+ 
+
+Python for Data Science
+
+ 
+
+1.     Python Basics
+
+2.     Python Packages
+
+3.     Working with NUMPY
+
+4.     Working with Pandas
+
+5.     Introduction to Data Visualization
+
+6.     Introduction to Matplotlib and Seaborn
+
+7.     Basic Plotting with Matplotlib and Seaborn
+
+ 
+
+Data Wrangling Techniques
+
+ 
+
+1.     Introduction to Data preprocessing
+
+2.     Importing the Dataset
+
+3.     Handling Missing data
+
+4.     Working with Categorical Data
+
+5.     Splitting the data into Train and Test set
+
+6.     Feature Scaling
+
+ 
+
+Introduction to Neural Networks
+
+ 
+
+1.     The Neuron
+
+2.     The Activation Function
+
+3.     How do Neural Networks work?
+
+4.     How do Neural Networks learn?
+
+5.     Gradient Descent
+
+6.     Stochastic Gradient Descent
+
+7.     Backpropagation
+
+ 
+
+Tensorflow & Keras
+
+ 
+
+1.     Introduction to Tensorflow & Keras Framework
+
+2.     Introduction to the Sequential Mode
+
+3.     Activation functions
+
+4.     Layers
+
+5.     Training
+
+6.     Loss function
+
+7.     Building ANN Using Tensor flow
+
+8.     Evaluating Improving and Tuning ANN
+
+ 
+
+Convolutional Neural Networks
+
+ 
+
+1.     Introduction to Convolutional Neural Networks
+
+2.     What are convolutional neural networks?
+
+3.     Step 1 - Convolution Operation
+
+4.     Step 1(b) - ReLU Layer
+
+5.     Step 2 - Pooling
+
+6.     Step 3 - Flattening
+
+7.     Step 4 - Full Connection Classification of images using CNN
+
+8.     Evaluating, Improving, and Tuning the CNN
+
+9.     Video Analysis using OpenCV
+
+10.  Object detection using YOLO
+
+ 
+
+Recurrent Neural Networks
+
+ 
+
+1.     Introduction to Recurrent Neural Networks
+
+2.     The idea behind Recurrent Neural Networks
+
+3.     The Vanishing Gradient Problem
+
+4.     LSTMs
+
+5.     LSTM Variations Predicting Google stock prices using RNN
+
+6.     Evaluating, Improving, and Tuning the RNN
+
+ 
+
+ 
+
+Natural Language Processing
+
+ 
+
+1.     Introduction to Natural Language Processing
+
+2.     Introduction to NLTK
+
+3.     Bag of Words model
+
+4.     Natural Language Processing in Python
+
+5.     Sentiment analysis using Natural Language Processing
+
+ 
+
+IBM Cloud & Watson AI Services
+
+ 
+
+1.     IBM Cloud Services
+
+2.     Introduction to IBM Cloud
+
+3.     Working with IBM AI services
+
+4.     Overview of AI Services
+
+5.     Introduction to AI in IBM cloud
+
+6.     Introduction to Watson Studio
+
+7.     Building Machine learning model in Watson Studio
+
+8.     Deploying Deep Learning Models as web service
+
+9.     Language Translators
+
+10.  Text to speech Tone analyser
+
+11.  Introduction to Node red
+
+12.  Integrating AI Services with node red
+
+ 
+
+Build & Deploy an AI Application
+
+ 
+
+1.     Introduction to different modes of Deployments
+
+2.     Working with Flask framework
+
+3.     Building an application with Flask Framework
+
+4.     Integrating Deep learning model with Web Application
+
+A Drowning detection system for any pool.
+
+1.The alarm is also provided directly to pool lifeguards via portable radio.
+2.This provides a quick reference to the location of the incident.
+3.The alarm is also provided directly to pool lifeguards via portable radio.
+4.Lifeguards can then visually assess the developing situation,
+ within seconds of an incident first occurring.
+
+
+SwimEye works like an “extra lifeguard” under the water of your pool.
+Our object recognition software tracks the movements of all swimmers in a pool.  
+And in the event of a serious drowning incident, SwimEye will provide an alarm to pool lifeguards.  
+This will help lifeguards improve their reaction-time, as they initiate a rescue.
+
+Poseidon installs underwater cameras to detect drowning accidents in pools more than 2.5 meters deep. 
+The specially designed underwater units include dual high-quality optical cameras with a combined field of vision of 180 degrees.
